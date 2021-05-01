@@ -10,6 +10,3 @@ Paragraph of text.
 
 
 asdfdsa
-
-
-asdfsadf
